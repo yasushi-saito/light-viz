@@ -9,7 +9,7 @@
     "url": "https://github.com/Kitware/light-viz.git"
   },
   "dependencies": {
-    "commander": "2.13.0",
+    "commander": "2.20.3",
     "open": "0.0.5",
     "shelljs": "0.8.1"
   },
